@@ -4,7 +4,6 @@ dependencies: []
 galaxy_info:
   author: Jibsan Joel Rosa Toirac
   description: PHP for RedHat/CentOS/Fedora/Debian/Ubuntu.
-  company: No Company
   license: "license (BSD, MIT)"
   min_ansible_version: 2.4
   platforms:
